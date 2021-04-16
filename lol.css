@@ -1,0 +1,208 @@
+/*ragd középre a táblázatott középre mindedn classnak egy egy háttáret pl.:Noxusnak keress egy képet Noxusrókl és legyen az a class neve*/
+/*ha kell akkor színezd át a betüket hogy normálisan látszódjon. a body hátterének meg egy képet mondjuk a summer's riftről.Ja és nyisd meg a fizz-es linket <3 */
+
+body {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-attachment:fixed;
+    background-color: black;
+    color:white ;
+    
+    
+}
+
+table {
+    margin:  auto;
+    border: 3px solid;
+    font-size: 1.5em;
+}
+
+#cimkep {
+    margin-left: auto;
+margin-right: auto;
+display: block;
+
+}
+
+td {
+    width: 6.5cm;
+    height: 5cm;
+}
+
+a {
+color:yellow ;
+}
+
+caption {
+    border: 5px solid black;
+    border-top-left-radius: 1cm;
+    border-top-right-radius: 1cm;
+    background-color: rgba(48, 51, 51, 0.623);
+    color: rgb(200, 212, 24)
+}
+
+#aatrox {
+background-image: url("Champ/Aatrox.jpg");
+background-size: cover;
+
+background-repeat: no-repeat;
+
+}
+
+#Garen {
+    background-image: url("Champ/Garen.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Demacia {
+    background-image: url("Demacia.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Ionia {
+    background-image: url("Ionia.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Shurima {
+    background-image: url("Shurima.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Freljord {
+    background-image: url("Freljord.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Runeterra {
+    background-image: url("Runeterra.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Targon {
+    background-image: url("Targon.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Zaun {
+    background-image: url("Zaun.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Piltover {
+    background-image: url("Piltover.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Noxus {
+    background-image: url("Noxus.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.theVoid {
+    background-image: url("The Void.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Bandle {
+    background-image: url("Bandlecity.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Shadow {
+    background-image: url("Shadow.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bilgewater {
+    background-image: url("Bilgewater.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.Ixtal {
+    background-image: url("Ixtal.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#aatrox {
+    background-image: url("Champ/Aatrox.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+      }
+#Ahri {
+    background-image: url("Champ/Ahri.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Akali { 
+    background-image: url("Champ/Akali.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Alistar {
+    background-image: url("Champ/Alistar.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Amumu {
+    background-image: url("Champ/Amumu.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Anivia {
+    background-image: url("Champ/Anivia.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Annie {
+    background-image: url("Champ/Annie.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Aphelios {
+    background-image: url("Champ/Aphelios.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Ashe {
+    background-image: url("Champ/ashe.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Aure {
+    background-image: url("Champ/Aurelionsol.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Azir {
+    background-image: url("Champ/Azir.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Ekko {
+    background-image: url("Champ/Ekko.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+    
+#Garen {
+      background-image: url("Champ/Garen.jpg") ;
+      background-size: cover;
+      background-repeat: no-repeat;
+ }
