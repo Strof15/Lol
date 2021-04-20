@@ -227,6 +227,27 @@ background-repeat: no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
 }
+#Bard {
+    background-image: url("Champ/Bard.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Blitz{
+    background-image: url("Champ/blitz.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Brand {
+    background-image: url("Champ/brand.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#Braum{
+    background-image: url("Champ/Braum.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+} 
+
 #Ekko {
     background-image: url("Champ/Ekko.jpg");
     background-size: cover;
